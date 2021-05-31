@@ -38,7 +38,7 @@ public class ThirdFragment extends Fragment {
 
         Button button2 = view.findViewById(R.id.show_info3_2);
         LinearLayout expandableveiw2 = view.findViewById(R.id.expandable_view3_2);
-        CardView cardView2 = view.findViewById(R.id.cardview_expandable2_2);
+        CardView cardView2 = view.findViewById(R.id.cardview_expandable3_2);
         TextView call2 = view.findViewById(R.id.textView3_2_4);
 
         Button button3 = view.findViewById(R.id.show_info3_3);
